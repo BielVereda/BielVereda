@@ -41,3 +41,15 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/Biel4629x/Biel4629x/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/Biel4629x">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Biel4629x&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
