@@ -42,6 +42,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/Biel4629x/Biel4629x/output/pacman-contribution-graph.svg" alt="Pacman animation" />
 
 ###
