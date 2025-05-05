@@ -1,4 +1,4 @@
-<h2 align="left">Olá, pessoal!<br><br>    Eu me chamo Gabriel e sou um jovem estudante que está iniciando sua carreira profissional.<br>Por enquanto eu não eutou em um trabalho fixo, mas, estou procurando fazer o maximo de cursos e estudos sobre programação em geral, porque é a área que eu sonho trabalhar.<br><br>Curiosidades sobre mim:<br>- Gosto muito de programar (Python, HTML, Java Script, CSS...)🖥👾<br>- Gosto muito de videogames🕹🎮<br>- Gosto muito de tocar instrumentos 🎸<br></h2>
+<h2 align="left">Olá, pessoal!<br><br>    Eu me chamo Gabriel e sou um jovem estudante que está iniciando sua carreira profissional.<br>Por enquanto eu não eutou em um trabalho fixo, mas, estou procurando fazer o máximo de cursos e estudos sobre programação em geral, porque é a área que eu sonho trabalhar.<br><br>Curiosidades sobre mim:<br>- Gosto muito de programar (Python, HTML, Java Script, CSS...)🖥👾<br>- Gosto muito de videogames🕹🎮<br>- Gosto muito de tocar instrumentos 🎸<br></h2>
 
 ###
 
