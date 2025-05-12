@@ -1,4 +1,4 @@
-<h2Olá, pessoal!
+Olá, pessoal!
 
 Eu me chamo Gabriel e sou um jovem estudante que está iniciando sua carreira profissional.
 Por enquanto eu não eutou em um trabalho na área de programação, mas, estou procurando fazer o máximo de cursos e estudos sobre programação em geral, porque é a área que eu sonho trabalhar.
