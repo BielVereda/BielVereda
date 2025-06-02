@@ -50,4 +50,4 @@ Gostos:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/KenpsSouza/KenpsSouza/main/dist/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/BielVereda/BielVereda/main/dist/github-contribution-grid-snake-dark.svg)
