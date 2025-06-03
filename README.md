@@ -11,7 +11,7 @@ Gostos:
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Biel4629X&locale=pt-br&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXFtbjdpZHp3dzZ3NnB2aHl5eTY0YnUxNnc2NWxtaGM5Nm55cXphMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" height="150" alt="streak graph"  />
 </div>
 
 ###
