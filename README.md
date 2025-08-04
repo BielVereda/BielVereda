@@ -4,7 +4,7 @@
 ### Por enquanto eu não estou em um trabalho na área de programação, mas, estou procurando fazer o máximo de cursos e estudos sobre programação em geral, porque é a área que eu sonho trabalhar.
 ##
 <div align="center">
-  ### Gostos:
+  <3>Gostos:</h3>
 </div>
 <div align="left">
   <p>→ Programar; 🖥👾</p>
