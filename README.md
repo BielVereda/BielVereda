@@ -12,9 +12,8 @@
 - Praticando com projetos das aulas e desafios próprios;
 - Evoluindo meu GitHub com códigos e repositórios organizados.
 
-<div align="center">
-  <h3>Gostos/Hobbies:</h3>
-</div>
+**Gostos/Hobbies:**
+---
 <div align="left">
   <p>→ Programar; 🖥👾</p>
   <p>→ Videogames; 🕹🎮</p>
