@@ -9,7 +9,7 @@
 - Aprimoramento constante das boas práticas de programação;
 ---
 
-🚀 **Atualmente estou:D**
+🚀 **Atualmente estou:**
 - Estudando **Java**, com foco em aplicações robustas;
 - Praticando com projetos das aulas e desafios próprios;
 - Evoluindo meu GitHub com códigos e repositórios organizados.
