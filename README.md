@@ -1,16 +1,19 @@
 # 👋 Olá! Eu sou Gabriel dos Santos Vereda
 
 🎓 Estudante técnico em **Desenvolvimento de Sistemas** no **SENAI Suiço-Brasileiro**, atualmente cursando o **2º semestre**.
+---
 
-💡 Tenho interesse em:
+💡 **Interesses**
 - Desenvolvimento backend/front-end com **Python**, **Java**, **CSS** e **HTML**;
 - Lógica de programação e estrutura de dados;
 - Aprimoramento constante das boas práticas de programação;
+---
 
-🚀 Atualmente estou:
+🚀 **Atualmente estou:D**
 - Estudando **Java**, com foco em aplicações robustas;
 - Praticando com projetos das aulas e desafios próprios;
 - Evoluindo meu GitHub com códigos e repositórios organizados.
+---
 
 **Gostos/Hobbies:**
 ---
