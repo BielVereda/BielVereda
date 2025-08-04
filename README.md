@@ -7,7 +7,6 @@
 - Lógica de programação e estrutura de dados;
 - Aprimoramento constante das boas práticas de programação;
 
-
 🚀 Atualmente estou:
 - Estudando **Java**, com foco em aplicações robustas;
 - Praticando com projetos das aulas e desafios próprios;
@@ -23,12 +22,10 @@
 </div>
   
 ##
-
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BielVereda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&order=2&custom_title=Linguagens%20mais%20usadas:" height="200" alt="languages graph" />
    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXFtbjdpZHp3dzZ3NnB2aHl5eTY0YnUxNnc2NWxtaGM5Nm55cXphMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" height="200" alt="Programming"/>
 </div>
-
 ##
 
 <div align="center">
