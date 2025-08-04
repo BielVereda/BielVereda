@@ -1,8 +1,25 @@
-### Olá, pessoal!
+# 👋 Olá! Eu sou Gabriel dos Santos Vereda
 
-### Eu me chamo Gabriel e sou um jovem estudante que está iniciando sua carreira profissional.
-### Por enquanto eu não estou em um trabalho na área de programação, mas, estou procurando fazer o máximo de cursos e estudos sobre programação em geral, porque é a área que eu sonho trabalhar.
-##
+🎓 Estudante técnico em **Desenvolvimento de Sistemas** no **SENAI Suiço-Brasileiro**, atualmente cursando o **2º semestre**.
+
+👩‍🏫 Tive contato com disciplinas como:
+- **Lógica de Programação (Java)**
+- **Programação Backend (Java)**
+- **Banco de Dados**
+- **Desenvolvimento Web**
+
+💡 Tenho interesse em:
+- Desenvolvimento backend com **Java** e **Spring Boot**
+- Lógica de programação e estrutura de dados
+- Projetos web e APIs REST
+- Aprimoramento constante das boas práticas de programação
+
+🚀 Atualmente estou:
+- Estudando **Java backend** com foco em aplicações robustas
+- Praticando com projetos das aulas e desafios próprios
+- Evoluindo meu GitHub com códigos e repositórios organizados por semestre
+
+
 <div align="center">
   <h3>Gostos:</h3>
 </div>
@@ -22,7 +39,7 @@
 ##
 
 <div align="center">
-  <h3>Linguagens e Ferramentas:</h3>
+  <h3>🧰 Tecnologias que venho utilizando</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
