@@ -1,6 +1,8 @@
 # 👋 Olá! Eu sou Gabriel dos Santos Vereda
 
+<div align="center">
 🎓 Estudante técnico em **Desenvolvimento de Sistemas** no **SENAI Suiço-Brasileiro**, atualmente cursando o **2º semestre**.
+</div>
 ---
 
 💡 **Interesses**
