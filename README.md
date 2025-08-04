@@ -2,26 +2,18 @@
 
 🎓 Estudante técnico em **Desenvolvimento de Sistemas** no **SENAI Suiço-Brasileiro**, atualmente cursando o **2º semestre**.
 
-👩‍🏫 Tive contato com disciplinas como:
-- **Lógica de Programação (Java)**
-- **Programação Backend (Java)**
-- **Banco de Dados**
-- **Desenvolvimento Web**
-
 💡 Tenho interesse em:
-- Desenvolvimento backend com **Java** e **Spring Boot**
-- Lógica de programação e estrutura de dados
-- Projetos web e APIs REST
-- Aprimoramento constante das boas práticas de programação
+- Desenvolvimento backend/front-end com **Python**, **Java**, **CSS** e **HTML**;
+- Lógica de programação e estrutura de dados;
+- Aprimoramento constante das boas práticas de programação;
 
 🚀 Atualmente estou:
-- Estudando **Java backend** com foco em aplicações robustas
-- Praticando com projetos das aulas e desafios próprios
-- Evoluindo meu GitHub com códigos e repositórios organizados por semestre
-
+- Estudando **Java**, com foco em aplicações robustas;
+- Praticando com projetos das aulas e desafios próprios;
+- Evoluindo meu GitHub com códigos e repositórios organizados.
 
 <div align="center">
-  <h3>Gostos:</h3>
+  <h3>Gostos/Hobbies</h3>
 </div>
 <div align="left">
   <p>→ Programar; 🖥👾</p>
