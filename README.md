@@ -15,7 +15,6 @@
 - Estudando **Java**, com foco em aplicações robustas;
 - Praticando com projetos das aulas e desafios próprios;
 - Evoluindo meu GitHub com códigos e repositórios organizados.
----
 
 **Gostos/Hobbies:**
 ---
