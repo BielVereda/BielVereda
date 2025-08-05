@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sans+Serif&weight=900&size=30&pause=1000&color=5BC8F7&background=253AFF00&center=true&width=435&lines=Ol%C3%A1%2C+Sou+Biel+Vereda!;Deixe+eu+me+apresentar...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sans+Serif&size=30&pause=1000&color=5BC8F7&background=253AFF00&width=435&height=100&lines=Ol%C3%A1%2C+Sou+Biel+Vereda!;Deixe+eu+me+apresentar...)](https://git.io/typing-svg)
 ---
 
 #### 🎓 Estudante técnico em **Desenvolvimento de Sistemas** no **SENAI Suiço-Brasileiro**, atualmente cursando o **2º semestre**.
