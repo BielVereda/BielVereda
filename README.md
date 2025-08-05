@@ -30,10 +30,10 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BielVereda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&order=2&custom_title=Linguagens%20mais%20usadas:" height="200" alt="languages graph" />
    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXFtbjdpZHp3dzZ3NnB2aHl5eTY0YnUxNnc2NWxtaGM5Nm55cXphMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" height="200" alt="Programming"/>
 </div>
-##
 
 <div align="center">
   <h3>🧰 Tecnologias que venho utilizando</h3>
+---
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
