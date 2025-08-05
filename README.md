@@ -63,8 +63,5 @@
 </div>
 
 ##
-<div align="center">
-  <h3>Streak:</h3>
-</div>
 <img src="./profile-3d-contrib/profile-night-view.svg" alt="Gráfico de contribuições 3D"/>
 <img src="https://raw.githubusercontent.com/BielVereda/BielVereda/main/dist/github-contribution-grid-snake-dark.svg"/>
