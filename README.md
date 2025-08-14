@@ -31,7 +31,7 @@
 </div>
 
 <div align="center">
-  <h3>💻 Linguagens que eu utilizo</h3>
+  <h3>💻 Linguagens que venho utilizando</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
