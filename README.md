@@ -10,7 +10,7 @@
 - Lógica de programação e estrutura de dados;
 - Aprimoramento constante das boas práticas de programação;
 
-🚀 **Atualmente estou:**
+🚀 **Atualmente estou...**
 ---
 - Estudando **Java**, com foco em aplicações robustas;
 - Praticando com projetos das aulas e desafios próprios;
