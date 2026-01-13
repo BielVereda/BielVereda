@@ -1,18 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sans+Serif&size=30&pause=1000&color=5BC8F7&background=253AFF00&width=435&height=100&lines=Ol%C3%A1%2C+Sou+Biel+Vereda!;Deixe+eu+me+apresentar...)](https://git.io/typing-svg)
 ---
 
-#### 🎓 Estudante técnico em **Desenvolvimento de Sistemas** no **SENAI Suiço-Brasileiro**, atualmente cursando o **2º semestre**.
+#### 🎓 Estudante técnico em **Desenvolvimento de Sistemas** no **SENAI Suiço-Brasileiro**, atualmente cursando o **3º semestre**.
 ---
 
 💡 **Interesses**
 ---
-- Desenvolvimento backend/front-end com **Python**, **Java**, **CSS** e **HTML**;
+- Desenvolvimento backend/front-end com **Python**, **Java**, **CSS**, **HTML** e **JavaScript**;
 - Lógica de programação e estrutura de dados;
 - Aprimoramento constante das boas práticas de programação;
 
 🚀 **Atualmente estou...**
 ---
-- Estudando **Java**, com foco em aplicações robustas;
+- Estudando **Java**, **HTML** e **CSS** com foco em aplicações robustas;
 - Praticando com projetos das aulas e desafios próprios;
 - Evoluindo meu GitHub com códigos e repositórios organizados.
 
